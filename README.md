@@ -1,4 +1,4 @@
-# cart
+# Shopping cart
 
 ## Project setup
 ```
