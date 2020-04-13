@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "title" : "Potato Chips",
+        "image" : "http://lorempixel.com/640/480/people",
+        "price" : "357.00"
+    },
+    {
+        "id": "2",
+        "title" : "Ginger Chips",
+        "image" : "http://lorempixel.com/640/480/city",
+        "price" : "458.00"
+    }
+]
